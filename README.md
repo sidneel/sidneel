@@ -1,5 +1,9 @@
-## Hi there 👋
-### I am a CS Student
+## Hi 👋
+### I am a CS Student 
+
+🌱 I’m currently learning Java 
+
+
 <!--
 **sidneel/sidneel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
