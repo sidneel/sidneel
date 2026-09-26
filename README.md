@@ -1,7 +1,7 @@
 ## Hi 👋
 ### I am a CS Student 
 
-🌱 I’m currently learning Java 
+🌱 I’m currently learning Java and Web dev
 
 
 <!--
